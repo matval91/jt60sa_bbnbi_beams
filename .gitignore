@@ -3,3 +3,11 @@
 *txt
 *png
 *eps
+*backup
+AT reference frame/
+N-NB/
+P-NB/
+OLD/
+*log
+*pyc
+.directory
